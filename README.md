@@ -27,7 +27,7 @@ not do so in a way that intentionally causes negative effects to the client syst
 (i.e. your laptop/ computer/ home network).
 
 
- ## Disclaimer
+## Disclaimer
 This privacy policy is not exhaustive in the content it covers nor is it legally binding,
 it is intended merely as a layer of transparency. I make no guarantee about
 the accuracy of this policy. (i.e. don't pursue any legal action as I guarantee
