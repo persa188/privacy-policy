@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Privacy Policy
+## Tracking
+Some of your info is collected by default by <b>google-analytics</b> so that I can can aggregate data such as browser type, device type, etc. and use it to provide a better site experience. I, however, respect your privacy so if your browser sends a <b> do not track </b> request the google-analytics script will not be executed and you will not be tracked (unless my code
+is incorrect/buggy in which case contact me and i'll fix it ASAP).
+<b>Cloudflare</b> may also aggregate some of your data in order to help me
+mitigate threats (suchs as ddos attacks) and spot suspicious activity on my site.
+For more information please see their <i>information collection and
+sharing policy </i>
+<a class="nounderline"
+href="https://www.cloudflare.com/security-policy/">here.
+</a>
 
-You can use the [editor on GitHub](https://github.com/persa188/pp.persa188.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Data & TL Security
+We take all reasonable steps to encrypt all communication between you 'the client'
+and us 'the server' in order to keep your information confidential, see
+<a class="nounderline" href="https://support.google.com/chrome/answer/95617?visit_id=1-636280066677491619-1407636114&p=ui_security_indicator&rd=1">here </a> to ensure that this content is currently being served to you securley.
+This basically means that outsiders (such as your ISP, hackers, etc.) can
+see that you're visiting this site but can not see what you are viewing on
+this site and what information you send to this site. (unless of course,
+your computer has been compromised, in which case the hackers can see everything 😛)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Cookies
+some of the afformentioned services, as well as
+scripts/libraries on my site may use cookies to enable certain functionality.
+I may in the future also use cookies to provide site functionality but will
+not do so in a way that intentionally causes negative effects to the client system
+(i.e. your laptop/ computer/ home network).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/persa188/pp.persa188.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ ## Disclaimer
+This privacy policy is not exhaustive in the content it covers nor is it legally binding,
+it is intended merely as a layer of transparency. I make no guarantee about
+the accuracy of this policy. (i.e. don't pursue any legal action as I guarantee
+nothing).
