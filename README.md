@@ -33,4 +33,6 @@ it is intended merely as a layer of transparency. I make no guarantee about
 the accuracy of this policy. (i.e. don't pursue any legal action as I guarantee
 nothing).
 
+
+----
 This Document was last updated Feb 22/2018
